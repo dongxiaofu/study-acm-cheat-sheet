@@ -8,3 +8,8 @@ add_executable(test_t_strlen string/3-1-1/01/t_strlen.cpp)
 add_executable(test_t_strcpy string/3-1-2/01/t_strcpy.cpp)
 
 add_executable(test_t_strstr string/3-1-3/01/t_strstr.cpp)
+
+add_executable(test_big_int_plus
+        big_int_operate/16-1/01/Solution.h
+        big_int_operate/16-1/01/Solution.cpp
+        big_int_operate/16-1/01/test.cpp)
