@@ -18,3 +18,8 @@ add_executable(test_tree_traverse_01
         tree/5-1/01/Solution.h
         tree/5-1/01/Solution.cpp
         tree/5-1/01/test.cpp)
+
+add_executable(test_tree_traverse_02
+        tree/5-1/02/Solution.h
+        tree/5-1/02/Solution.cpp
+        tree/5-1/02/test.cpp)
