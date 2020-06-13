@@ -13,3 +13,8 @@ add_executable(test_big_int_plus
         big_int_operate/16-1/01/Solution.h
         big_int_operate/16-1/01/Solution.cpp
         big_int_operate/16-1/01/test.cpp)
+
+add_executable(test_tree_traverse_01
+        tree/5-1/01/Solution.h
+        tree/5-1/01/Solution.cpp
+        tree/5-1/01/test.cpp)
